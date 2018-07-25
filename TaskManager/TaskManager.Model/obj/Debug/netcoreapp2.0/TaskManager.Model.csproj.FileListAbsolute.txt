@@ -1,0 +1,9 @@
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Model\bin\Debug\netcoreapp2.0\TaskManager.Model.deps.json
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Model\bin\Debug\netcoreapp2.0\TaskManager.Model.dll
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Model\obj\Debug\netcoreapp2.0\TaskManager.Model.csprojAssemblyReference.cache
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Model\obj\Debug\netcoreapp2.0\TaskManager.Model.csproj.CoreCompileInputs.cache
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Model\obj\Debug\netcoreapp2.0\TaskManager.Model.AssemblyInfoInputs.cache
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Model\obj\Debug\netcoreapp2.0\TaskManager.Model.AssemblyInfo.cs
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Model\bin\Debug\netcoreapp2.0\TaskManager.Model.pdb
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Model\obj\Debug\netcoreapp2.0\TaskManager.Model.dll
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Model\obj\Debug\netcoreapp2.0\TaskManager.Model.pdb

@@ -1,0 +1,14 @@
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.0\TaskManager.BusinessLayer.deps.json
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.0\TaskManager.BusinessLayer.dll
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.0\TaskManager.BusinessLayer.csprojAssemblyReference.cache
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.0\TaskManager.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.0\TaskManager.BusinessLayer.AssemblyInfoInputs.cache
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.0\TaskManager.BusinessLayer.AssemblyInfo.cs
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.0\TaskManager.BusinessLayer.pdb
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.0\TaskManager.DataAccessLayer.dll
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.0\TaskManager.Model.dll
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.0\TaskManager.DataAccessLayer.pdb
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.0\TaskManager.Model.pdb
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.0\TaskManager.BusinessLayer.csproj.CopyComplete
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.0\TaskManager.BusinessLayer.dll
+C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.0\TaskManager.BusinessLayer.pdb
