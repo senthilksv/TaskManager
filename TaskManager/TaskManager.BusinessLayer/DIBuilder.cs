@@ -12,9 +12,9 @@ namespace TaskManager.BusinessLayer
     {
         public static void Build(IServiceCollection services, IConfiguration config)
         {
-            services.AddTransient<ITaskRepository, TaskRepository>();
+            services.AddTransient<ITaskRepository, TaskRepository>();         
             services.AddEntityFrameworkSqlServer().
-                AddDbContext<TaskDbContext>(option => option.UseSqlServer("Server = DOTNET; Database = TaskDb; Trusted_Connection = True;"));
+                AddDbContext<TaskDbContext>(option => option.UseSqlServer(config.GetSection("Database").GetSection("Connection").Value));
 
         }
     }

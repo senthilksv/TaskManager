@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,9 +12,11 @@ namespace TaskManager.DataAccessLayer
     public class TaskRepository : ITaskRepository
     {
         private readonly TaskDbContext taskDbContext;
-        public TaskRepository(TaskDbContext taskDbContext)
+        private readonly ILogger<TaskRepository> logger;
+        public TaskRepository(TaskDbContext taskDbContext, ILogger<TaskRepository> logger)
         {
             this.taskDbContext = taskDbContext;
+            this.logger = logger;
         }
         public async Task<int> DeleteAsync(TaskDetail entity)
         {
@@ -24,7 +27,7 @@ namespace TaskManager.DataAccessLayer
 
         public async Task<IEnumerable<TaskDetail>> GetAllAsync()
         {
-            return await taskDbContext.Tasks.ToListAsync();
+            return await taskDbContext.Tasks.AsNoTracking<TaskDetail>().ToListAsync();
         }
 
         public async Task<TaskDetail> GetAsync(int id)
@@ -39,9 +42,7 @@ namespace TaskManager.DataAccessLayer
         }
 
         public async Task<int> UpdateAsync(int id,TaskDetail entity)
-        {
-            //var taskDetail = taskDbContext.Tasks.FirstOrDefault(t => t.Id == id);
-            //taskDetail = entity;
+        {           
             taskDbContext.Update<TaskDetail>(entity);
             return await taskDbContext.SaveChangesAsync();
         }

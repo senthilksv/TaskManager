@@ -30,7 +30,7 @@ namespace TaskManager.Service
             services.AddMvc();           
 
             services.AddTransient<IManageTask, ManageTask>();
-         
+        
             DIBuilder.Build(services, Configuration);
         }
 
