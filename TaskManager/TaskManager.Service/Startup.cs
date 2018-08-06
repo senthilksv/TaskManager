@@ -30,7 +30,12 @@ namespace TaskManager.Service
             services.AddMvc();           
 
             services.AddTransient<IManageTask, ManageTask>();
-        
+
+            BuildOtherLayerServices(services);
+        }
+
+        protected virtual void BuildOtherLayerServices(IServiceCollection services)
+        {
             DIBuilder.Build(services, Configuration);
         }
 

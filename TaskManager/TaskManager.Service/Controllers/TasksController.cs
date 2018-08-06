@@ -94,7 +94,7 @@ namespace TaskManager.Service.Controllers
                 if (taskDetail == null || id != taskDetail.Id)
                 {
                     logger.LogInformation("Invalid Task to edit");
-                    return BadRequest("Invalid task to edit. ");
+                    return BadRequest("Invalid task to edit.");
                 }
                 if (taskDetail.EndTask && !manageTask.IsTaskValidToClose(taskDetail))
                 {

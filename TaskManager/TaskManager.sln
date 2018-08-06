@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.BusinessLayer",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.DataAccessLayer", "TaskManager.DataAccessLayer\TaskManager.DataAccessLayer.csproj", "{DE83CE73-5A79-4604-BB4A-74E572851F0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.Service.Tests", "TaskManager.Service.Tests\TaskManager.Service.Tests.csproj", "{FAC635A5-A5DB-4F3C-8F13-C20686EE63EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.BusinessLayer.Tests", "TaskManager.BusinessLayer.Tests\TaskManager.BusinessLayer.Tests.csproj", "{830D442E-E343-4568-94AE-FC6A8DF38AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.DataAccessLayer.Tests", "TaskManager.DataAccessLayer.Tests\TaskManager.DataAccessLayer.Tests.csproj", "{E5D7D9CE-0229-44AC-A5F1-014E15E6BBAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +39,18 @@ Global
 		{DE83CE73-5A79-4604-BB4A-74E572851F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE83CE73-5A79-4604-BB4A-74E572851F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE83CE73-5A79-4604-BB4A-74E572851F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC635A5-A5DB-4F3C-8F13-C20686EE63EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC635A5-A5DB-4F3C-8F13-C20686EE63EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC635A5-A5DB-4F3C-8F13-C20686EE63EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC635A5-A5DB-4F3C-8F13-C20686EE63EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830D442E-E343-4568-94AE-FC6A8DF38AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830D442E-E343-4568-94AE-FC6A8DF38AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830D442E-E343-4568-94AE-FC6A8DF38AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830D442E-E343-4568-94AE-FC6A8DF38AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D7D9CE-0229-44AC-A5F1-014E15E6BBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D7D9CE-0229-44AC-A5F1-014E15E6BBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D7D9CE-0229-44AC-A5F1-014E15E6BBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D7D9CE-0229-44AC-A5F1-014E15E6BBAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

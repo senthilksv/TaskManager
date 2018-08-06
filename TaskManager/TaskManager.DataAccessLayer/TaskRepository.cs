@@ -43,7 +43,7 @@ namespace TaskManager.DataAccessLayer
 
         public async Task<int> UpdateAsync(int id,TaskDetail entity)
         {           
-            taskDbContext.Update<TaskDetail>(entity);
+            taskDbContext.Tasks.Update(entity);
             return await taskDbContext.SaveChangesAsync();
         }
     }

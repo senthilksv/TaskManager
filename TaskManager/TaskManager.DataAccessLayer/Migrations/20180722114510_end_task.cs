@@ -1,9 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 
 namespace TaskManager.DataAccessLayer.Migrations
 {
+    [ExcludeFromCodeCoverage]
     public partial class end_task : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)

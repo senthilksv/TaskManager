@@ -94,3 +94,71 @@
 2018-07-29 19:00:37.0405 Info Adding target File Target[ownFile-web]
 2018-07-29 19:00:37.0405 Info Configured from an XML element in C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Service\bin\Debug\netcoreapp2.0\nlog.config...
 2018-07-29 19:00:37.0774 Info Found 45 configuration items
+2018-08-05 09:28:23.9217 Info Message Template Auto Format enabled
+2018-08-05 09:28:23.9507 Info Loading assembly: NLog.Web.AspNetCore
+2018-08-05 09:28:24.1231 Info Adding target File Target[allfile]
+2018-08-05 09:28:24.2063 Info Adding target File Target[ownFile-web]
+2018-08-05 09:28:24.2175 Info Configured from an XML element in C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Service\bin\Debug\netcoreapp2.0\nlog.config...
+2018-08-05 09:28:24.2469 Info Found 45 configuration items
+2018-08-05 20:53:42.3399 Info Message Template Auto Format enabled
+2018-08-05 20:53:42.3848 Info Loading assembly: NLog.Web.AspNetCore
+2018-08-05 20:53:42.5925 Info Adding target File Target[allfile]
+2018-08-05 20:53:42.6062 Info Adding target File Target[ownFile-web]
+2018-08-05 20:53:42.6255 Info Configured from an XML element in C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Service\bin\Debug\netcoreapp2.0\nlog.config...
+2018-08-05 20:53:42.6710 Info Found 45 configuration items
+2018-08-05 20:54:00.4783 Info Message Template Auto Format enabled
+2018-08-05 20:54:00.5150 Info Loading assembly: NLog.Web.AspNetCore
+2018-08-05 20:54:00.7582 Info Adding target File Target[allfile]
+2018-08-05 20:54:00.7953 Info Adding target File Target[ownFile-web]
+2018-08-05 20:54:00.8112 Info Configured from an XML element in C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Service\bin\Debug\netcoreapp2.0\nlog.config...
+2018-08-05 20:54:00.8449 Info Found 45 configuration items
+2018-08-05 22:14:48.0606 Info Message Template Auto Format enabled
+2018-08-05 22:14:48.1009 Info Loading assembly: NLog.Web.AspNetCore
+2018-08-05 22:14:48.2970 Info Adding target File Target[allfile]
+2018-08-05 22:14:48.3107 Info Adding target File Target[ownFile-web]
+2018-08-05 22:14:48.3294 Info Configured from an XML element in C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Service\bin\Debug\netcoreapp2.0\nlog.config...
+2018-08-05 22:14:48.3804 Info Found 45 configuration items
+2018-08-05 22:41:35.6548 Info Configuration file change detected! Reloading in 1000ms...
+2018-08-05 22:41:35.6548 Info Configuration file change detected! Reloading in 1000ms...
+2018-08-05 22:41:35.6548 Info Configuration file change detected! Reloading in 1000ms...
+2018-08-05 22:41:36.6641 Info Reloading configuration...
+2018-08-05 22:41:36.6641 Info Message Template Auto Format enabled
+2018-08-05 22:41:36.6641 Info Found 45 configuration items
+2018-08-05 22:41:36.6774 Info Loading assembly: NLog.Web.AspNetCore
+2018-08-05 22:41:36.6774 Info Adding target File Target[allfile]
+2018-08-05 22:41:36.6774 Info Adding target File Target[ownFile-web]
+2018-08-05 22:41:36.6774 Info Configured from an XML element in C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Service\bin\Debug\netcoreapp2.0\nlog.config...
+2018-08-05 22:41:36.6774 Info Closing old configuration.
+2018-08-05 22:41:36.7381 Info Found 45 configuration items
+2018-08-05 22:41:37.5508 Info Message Template Auto Format enabled
+2018-08-05 22:41:37.5858 Info Loading assembly: NLog.Web.AspNetCore
+2018-08-05 22:41:37.7792 Info Adding target File Target[allfile]
+2018-08-05 22:41:37.7979 Info Adding target File Target[ownFile-web]
+2018-08-05 22:41:37.8145 Info Configured from an XML element in C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Service\bin\Debug\netcoreapp2.0\NLog.config...
+2018-08-05 22:41:37.8540 Info Found 45 configuration items
+2018-08-05 22:41:37.9160 Info Configuration initialized.
+2018-08-05 22:41:37.9280 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2018-08-05 22:41:38.6570 Info Shutting down logging...
+2018-08-05 22:41:38.7334 Info Logger has been shut down.
+2018-08-05 22:52:25.7376 Info Message Template Auto Format enabled
+2018-08-05 22:52:25.8011 Info Loading assembly: NLog.Web.AspNetCore
+2018-08-05 22:52:26.0309 Info Adding target File Target[allfile]
+2018-08-05 22:52:26.0467 Info Adding target File Target[ownFile-web]
+2018-08-05 22:52:26.0662 Info Configured from an XML element in C:\inetpub\wwwroot\TaskManagerService\nlog.config...
+2018-08-05 22:52:26.1209 Info Found 45 configuration items
+2018-08-05 23:22:20.5102 Info Logger closing down...
+2018-08-05 23:22:20.5102 Info Closing old configuration.
+2018-08-05 23:22:20.5839 Info Logger has been closed down.
+2018-08-05 23:22:20.5839 Info Shutting down logging...
+2018-08-05 23:22:20.5839 Info Logger has been shut down.
+2018-08-06 11:16:13.6921 Info Message Template Auto Format enabled
+2018-08-06 11:16:13.7122 Info Loading assembly: NLog.Web.AspNetCore
+2018-08-06 11:16:13.8259 Info Adding target File Target[allfile]
+2018-08-06 11:16:13.8334 Info Adding target File Target[ownFile-web]
+2018-08-06 11:16:13.8434 Info Configured from an XML element in C:\Senthil\Projects\TaskManager\TaskManager\TaskManager.Service\bin\Release\netcoreapp2.0\nlog.config...
+2018-08-06 11:16:13.8737 Info Found 45 configuration items
+2018-08-06 11:26:27.2919 Info Logger closing down...
+2018-08-06 11:26:27.2972 Info Closing old configuration.
+2018-08-06 11:26:27.3688 Info Logger has been closed down.
+2018-08-06 11:26:27.3764 Info Shutting down logging...
+2018-08-06 11:26:27.3764 Info Logger has been shut down.

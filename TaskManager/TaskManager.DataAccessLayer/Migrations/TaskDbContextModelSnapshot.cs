@@ -6,11 +6,13 @@ using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage;
 using Microsoft.EntityFrameworkCore.Storage.Internal;
 using System;
+using System.Diagnostics.CodeAnalysis;
 using TaskManager.DataAccessLayer;
 
 namespace TaskManager.DataAccessLayer.Migrations
 {
     [DbContext(typeof(TaskDbContext))]
+    [ExcludeFromCodeCoverage]
     partial class TaskDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
